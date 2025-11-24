@@ -1,0 +1,3 @@
+com\platinum\cta\DBConnectionTest.class
+runners\TestRunner.class
+stepdefinitions\LoginSteps.class
